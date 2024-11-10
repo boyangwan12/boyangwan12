@@ -5,7 +5,7 @@
 - 🧠 My journey into data analytics began during my **Business Economics** studies at **UCLA**, where I discovered how data can drive smarter decisions across industries.
 - 📈 I have hands-on experience in private equity and venture capital, where I leveraged data to analyze markets, assess investments, and identify trends, giving me a strong foundation in **business acumen** and strategic decision-making.
 - 📊 Currently working on an AI-driven project with **BNP Paribas**, where we're forecasting the U.S. Treasury yield curve using advanced time series modeling and data augmentation techniques.
-- 🤝 My experience with cross-functional projects, including my role as Chancellor of UCLA’s Eta Omega Chi business fraternity, has equipped me with **project management skills** that drive efficient collaboration and high-quality outcomes.
+	🤝 As the Project Manager for the BNP Paribas capstone project, I lead cross-functional teams with a focus on **organization**, **responsibility**, and **goal-oriented planning**. My approach to project management ensures efficient collaboration and consistently high-quality outcomes.
 - 📢 With a keen interest in **marketing**, I focus on data-driven strategies that enhance brand positioning and customer engagement, as demonstrated in various leadership roles where I managed branding efforts and community-building initiatives.
 - 🚀 I am **deeply curious** and committed to **lifelong learning**, always seeking new knowledge and exploring innovative methods to solve complex problems.
 
