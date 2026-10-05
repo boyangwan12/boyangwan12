@@ -1,7 +1,7 @@
 ## Hi there! I'm Boyang Wan 👋
 
-- **Master’s Degree in [Management Analytics](https://www.mcgill.ca/desautels/programs/mma) at McGill University**
-- **Bachelor's degree Degree in Business Economics, minor in Cognitive Science in UCLA** 
+- Master of Management Analytics – McGill University
+- Bachelor of Arts in Business Economics (Minor in Cognitive Science) – UCLA
 - Passionate about using data and AI to uncover insights and solve real-world problems
 
 ### Connect with me
